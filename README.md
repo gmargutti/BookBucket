@@ -1,6 +1,6 @@
 BookBucket
 ==========
-Um projeto para disciplina de banco de dados sobre um sistema de livraria.
+Um projeto para disciplina de banco de dados sobre um sistema de biblioteca.
 
 Criado por Gabriel Beltrame Silva.
 
